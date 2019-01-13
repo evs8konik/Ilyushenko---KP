@@ -1,0 +1,140 @@
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\bin\Debug\Magazin.mdf
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\bin\Debug\Magazin_log.ldf
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\bin\Debug\Sclad.exe.config
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\bin\Debug\Sclad.exe
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\bin\Debug\Sclad.pdb
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form1.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Properties.Resources.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.csproj.GenerateResource.Cache
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.exe
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.pdb
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form2.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form3.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form10.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form4.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form5.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form6.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form7.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form8.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form9.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.csprojResolveAssemblyReference.cache
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\Sclad.Form11.resources
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\RdlCompile.cache
+D:\учеба\C#_Программное обеспечение управления движения товаров на складе авто магазина на примере ЧТПУП Арал-Центр_1600000(БНТУ)\Sclad\Sclad\obj\x86\Debug\RdlCompile.compiled
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\bin\Debug\Sclad.exe.config
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.exe
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.pdb
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\bin\Debug\Magazin.mdf
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\bin\Debug\Magazin_log.ldf
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\bin\Debug\Sclad.exe
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\bin\Debug\Sclad.pdb
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\bin\Debug\Sclad.exe.CodeAnalysisLog.xml
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\bin\Debug\Sclad.exe.lastcodeanalysissucceeded
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form1.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form10.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form11.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form2.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form3.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form4.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form5.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form6.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form7.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form8.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Form9.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\Sclad.Properties.Resources.resources
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\RdlCompile.cache
+D:\несорт\не работа\заказы\чужие доработки\8268\Sclad\Sclad\obj\x86\Debug\RdlCompile.compiled
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\bin\Debug\Sclad.exe.config
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.exe
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.pdb
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\bin\Debug\Magazin.mdf
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\bin\Debug\Magazin_log.ldf
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\bin\Debug\Sclad.exe
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\bin\Debug\Sclad.pdb
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form1.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form10.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form11.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form2.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form3.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form4.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form5.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form6.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form7.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form8.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form9.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.Properties.Resources.resources
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\RdlCompile.cache
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\RdlCompile.compiled
+D:\несорт\не работа\база работ\работа\дипмастер\2710\Sclad\Sclad\obj\x86\Debug\Sclad.AboutBox1.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Sclad.exe.config
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.exe
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.pdb
+F:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Magazin.mdf
+F:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Magazin_log.ldf
+F:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Sclad.exe
+F:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Sclad.pdb
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.AboutBox1.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form1.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form10.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form11.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form2.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form3.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form4.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form5.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form6.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form7.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form8.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form9.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Properties.Resources.resources
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\RdlCompile.cache
+F:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\RdlCompile.compiled
+D:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Sclad.exe.config
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.exe
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.pdb
+D:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Magazin.mdf
+D:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Magazin_log.ldf
+D:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Sclad.exe
+D:\curse\not mine\доработка 2710\Sclad\Sclad\bin\Debug\Sclad.pdb
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.csprojResolveAssemblyReference.cache
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.AboutBox1.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form1.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form10.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form11.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form2.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form3.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form4.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form5.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form6.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form7.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form8.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form9.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Properties.Resources.resources
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.csproj.GenerateResource.Cache
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\RdlCompile.cache
+D:\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\RdlCompile.compiled
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.csprojResolveAssemblyReference.cache
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.AboutBox1.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form1.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form10.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form11.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form2.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form3.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form4.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form5.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form6.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form7.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form8.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Form9.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.Properties.Resources.resources
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.csproj.GenerateResource.Cache
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.exe
+D:\!flash\curse\not mine\доработка 2710\Sclad\Sclad\obj\x86\Debug\Sclad.pdb
